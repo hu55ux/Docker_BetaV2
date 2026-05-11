@@ -1,0 +1,23 @@
+# IDE
+.vs/
+.vscode/
+*.swp
+*.swo
+
+# Build outputs
+bin/
+obj/
+dist/
+node_modules/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Docker logs
+*.log

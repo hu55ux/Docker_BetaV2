@@ -1,0 +1,14 @@
+**/.bin
+**/.obj
+**/.git
+**/.vs
+**/.vscode
+**/bin
+**/obj
+**/out
+Dockerfile
+.dockerignore
+.vs
+.vscode
+bin/
+obj/
